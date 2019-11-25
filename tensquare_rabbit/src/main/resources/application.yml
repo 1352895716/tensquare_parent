@@ -1,0 +1,10 @@
+server:
+  port: 9008
+spring:
+  application:
+    name: tensquare_rabbit
+
+
+  rabbitmq:
+    host: 192.168.15.136
+

@@ -1,0 +1,14 @@
+server:
+  port: 9009
+
+
+spring:
+  rabbitmq:
+    host: 192.168.15.136
+
+aliyun:
+  sms:
+    accessKeyId: LTAIP4w8fZhSqbir
+    accessKeySecret: l75y4l4ivVZ4E9rAGkb7anc19ZnYop
+    template_code: SMS_109465023
+    sign_name: 智游商城
